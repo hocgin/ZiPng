@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="fpng" />
+        <module name="zipng" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="fpng" target="1.5" />
+      <module name="zipng" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
