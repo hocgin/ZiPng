@@ -28,7 +28,7 @@ usage: java -jar zipng.jar [-h/--help] [-f/--from] fromPath [-t/--to] toPath
                      -t,--to <arg>       压缩后存放的文件夹
 ```
 ## 截图
-![image](http://7xs6lq.com1.z0.glb.clouddn.com/github/%E9%80%89%E5%8C%BA_017.png)
+![image](http://7xs6lq.com1.z0.glb.clouddn.com/github/ZiPng.png)
 
 ## 致谢
 欢迎指点。。
