@@ -97,6 +97,10 @@ public class Main {
                             }
                         }
                     } catch (IOException e) {
+                        System.out.println(" ---------------------------[Error]------------------------- ");
+                        System.out.println(String.format("Message: %s", e.getMessage()));
+                        System.out.println(String.format("From: %s", dir));
+                        System.out.println(String.format("To: %s", destDir));
                         e.printStackTrace();
                     }
                 }
